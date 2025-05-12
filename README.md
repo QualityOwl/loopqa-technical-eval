@@ -4,7 +4,7 @@ This repository contains my Playwright technical evaluation project using TypeSc
 
 ## Test Results
 
-An example test run with results can be viewed here --> [Playwright Test Results](https://github.com/QualityOwl/qowl-demo-playwright/actions/runs/14604127605)
+An example test run with results can be viewed here --> [Playwright Test Results](https://github.com/QualityOwl/loopqa-technical-eval/actions/runs/14976386135)
 
 ## Getting Started
 
