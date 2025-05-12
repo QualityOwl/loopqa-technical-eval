@@ -1,0 +1,25 @@
+{
+  "name": "playwright-101-assignment-task",
+  "version": "1.0.0",
+  "description": "This is the repository that contains my solution for the Playwright 101 exam through LambdaTest.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QualityOwl/playwright-101-assignment-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QualityOwl/playwright-101-assignment-task/issues"
+  },
+  "homepage": "https://github.com/QualityOwl/playwright-101-assignment-task#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "include": [
+        "tests/**/*.ts",
+        "playwright-extensions.d.ts",
+        "common/fixture.ts"
+    ],
+    "compilerOptions": {
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "strict": true
+    }
+}

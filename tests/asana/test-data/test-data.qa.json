@@ -1,0 +1,15 @@
+[
+    {
+        "baseUrl": "https://animated-gingersnap-8cf7f2.netlify.app/",
+        "username": "admin",
+        "password": "password123",
+        "testScenarios": [
+            [ "Web Application", "Implement user authentication", "To Do", [ "Feature", "High Priority" ] ],
+            [ "Web Application", "Fix navigation bug", "To Do", [ "Bug" ] ],
+            [ "Web Application", "Design system updates", "In Progress", [ "Design" ] ],
+            [ "Mobile Application", "Push notification system", "To Do", [ "Feature" ] ],
+            [ "Mobile Application", "Offline mode", "In Progress", [ "Feature", "High Priority" ] ],
+            [ "Mobile Application", "App icon design", "Done", [ "Design" ] ]
+        ]
+    }
+]
