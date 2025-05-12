@@ -49,7 +49,6 @@ test.describe('\'Project\' Board Test Scenarios', () => {
                 log.step(`Verify that the \'${cardTitle}\' card contains the \'${tag}\' tag.`);
                 await expect(card.getByText(tag, { exact: true }).first()).toHaveCount(1);
             }
-
         });
     }
 });
